@@ -1,2 +1,2 @@
-# CookingMama
+# CookingPepito
 Cooking Pizza WebGL game !!
